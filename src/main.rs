@@ -80,4 +80,3 @@ fn main() {
     }
 }
 
-// http://localhost:3000/rooms/Y8bbPg/ws
